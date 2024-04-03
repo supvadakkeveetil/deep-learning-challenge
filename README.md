@@ -2,7 +2,7 @@
 
 ### Overview of the analysis
 
-The purpose of this analysis is to help Alphabet Soup predict applicatants success if funded by Alphabet Soup
+The purpose of this analysis is to help Alphabet Soup predict applicatants success if funded by Alphabet Soup. 
 
 ### Results:
 
@@ -32,5 +32,5 @@ The purpose of this analysis is to help Alphabet Soup predict applicatants succe
   and third hidden layer respectively) and chose activation function as relu for first and sigmoid for other 2 hidden layers
 
 ### References
-Data collected from
-IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
+Data collected from IRS. Tax Exempt Organization Search Bulk Data Downloads. 
+https://www.irs.gov/
